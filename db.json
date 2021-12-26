@@ -26,7 +26,7 @@
         "tipo": "Lager",
         "dates":{
         },
-        "imagen": "https://firebasestorage.googleapis.com/v0/b/react-proyect-43651.appspot.com/o/thais-do-rio-EUO7L470LXk-unsplash.jpg?alt=media&token=d7c36703-ff56-4918-9b46-7fec6143cb8a",
+        "imagen": "gs://react-proyect-43651.appspot.com/beer02.jpg",
         "info": "Esta cerveza color ámbar tiene un aroma a caramelo suave gracias a la combinacion de sus cuatro maltas. Tiene un sabor maltoso y a caramelo leve tostado que deja un sutil dulzor. Maltas usadas: Pilsen, Carared, Melanoidina y Carapils. Lúpulos usados: Cascade y Nugget."
       },
       {
