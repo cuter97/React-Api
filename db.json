@@ -1,0 +1,104 @@
+{
+    "posts": [
+      {
+        "id": 1,
+        "title": "hello"
+      }
+    ],
+    "profile": {
+      "name": "typicode"
+    },
+    "productos": [
+      {
+        "id": 1,
+        "producto": "IPA",
+        "precio": 120,
+        "tipo": "Ale",
+        "dates": {
+        },
+        "imagen": "https://github.com/cuter97/Cervezas/blob/main/Imagenes/cerveza-index.jpg",
+        "info": "Ale americana cobriza, floral, con toques herbáceos y cítricos. Equilibrio entre el cuerpo y el lúpulo. Toda IPA Manush debe pasar la prueba del globo y el elefante: volar establemente con un buen contrapeso. Lúpulos: Nugget y Cascade."
+      },
+      {
+        "id": 2,
+        "producto": "Amber Lager",
+        "precio": 100,
+        "tipo": "Lager",
+        "dates":{
+        },
+        "imagen": "https://github.com/cuter97/Cervezas/blob/main/Imagenes/cerveza-index.jpg",
+        "info": "Esta cerveza color ámbar tiene un aroma a caramelo suave gracias a la combinacion de sus cuatro maltas. Tiene un sabor maltoso y a caramelo leve tostado que deja un sutil dulzor. Maltas usadas: Pilsen, Carared, Melanoidina y Carapils. Lúpulos usados: Cascade y Nugget."
+      },
+      {
+        "id": 3,
+        "producto": "HOPPY LAGER",
+        "precio": 140,
+        "tipo": "Lager",
+        "dates":{
+        },
+        "imagen": "https://github.com/cuter97/Cervezas/blob/main/Imagenes/cerveza-index.jpg",
+        "info": " Esta cerveza tiene un color dorado profundo, de espuma densa y duradera. Leve opalescencia por ser una cerveza sin filtrar (para preservar aromas). El aroma a lúpulo se percibe con notas cítricas y a durazno. Con una maltosidad que equilibra el amargor, haciéndole muy fácil de tomar. De final seco y balanceado. Amargo bajo y cuerpo moderado. Maltas usadas: Malta Pilsen, Vienna y CarAmber. Lúpulos usados: Huel Melon, Mapuche y Summit."
+      },
+      {
+        "id": 4,
+        "producto": "Pilsen",
+        "precio": 90,
+        "tipo": "Ale",
+        "dates":{
+        },
+        "imagen": "https://github.com/cuter97/Cervezas/blob/main/Imagenes/cerveza-index.jpg",
+        "info": "aca va informacion del producto"
+      },
+      {
+        "id": 5,
+        "producto": "ZORRO COLORADO",
+        "precio": 110,
+        "tipo": "Ale",
+        "dates":{
+        },
+        "imagen": "https://github.com/cuter97/Cervezas/blob/main/Imagenes/cerveza-index.jpg",
+        "info": "Cerveza Red Ipa de color ambar rojizo, espuma color crema, muy persistente. De aromas y sabores complejos, producto del uso de lúpulos norteamericanos como Mosaic y Denali, sumados al Cascade patagónico."
+      },
+      {
+        "id": 6,
+        "producto": "NAHUELITO BLACK IPA",
+        "precio": 20,
+        "tipo": "Ale",
+        "dates":{
+        },
+        "imagen": "https://github.com/cuter97/Cervezas/blob/main/Imagenes/cerveza-index.jpg",
+        "info": "La Nahuelito Black IPA es una cerveza de color negro, tonalidad aportada por las maltas oscuras, cuya característica principal es un gran aroma lupulado y un amargor intenso en boca, combinado con tonos tostados y chocolates. Usaron lúpulos nacionales e importados, que combinan características cítricas y herbales en la búsqueda del balance deseado"
+      },
+      {
+        "id": 7,
+        "producto": "FRAMBUESA",
+        "precio": 115,
+        "tipo": "Stout",
+        "dates":{
+        },
+        "imagen": "https://github.com/cuter97/Cervezas/blob/main/Imagenes/cerveza-index.jpg",
+        "info": "El Champán de las cervezas. Su origen se identifica con productos característicos de Bélgica, allí se elaboran muchos estilos relacionados a las frutas finas. Este estilo es de un color rosado brillante aportado por la frambuesa, producto que se adquiere de productores de la comarca de El Bolsón. Una característica destacada del estilo es el alto porcentaje de alcohol, 7,5%. Esto se debe a que la fruta aporta buenas cantidades de azúcares fermentables, que en el proceso de fermentación interactúan con la levadura y generan ese volúmen. También la fruta fina aporta un leve sabor ácido. El porcentaje de lúpulo es muy bajo."
+      },
+      {
+        "id": 8,
+        "producto": "IRISH CREAM ALE",
+        "precio": 300,
+        "tipo": "Ale",
+        "dates":{
+        },
+        "imagen": "https://github.com/cuter97/Cervezas/blob/main/Imagenes/cerveza-index.jpg",
+        "info": "Esta cerveza roja es una de las más elegidas. Ale Irlandesa fácil de beber, con sabores sutiles a grano y bizcocho. Posee un toque tostado en el final que la hace muy refrescante. Lúpulos: Nugget y Bullion."
+      },
+      {
+        "id": 9,
+        "producto": "EXTRA STOUT",
+        "precio": 190,
+        "tipo": "Stout",
+        "dates":{
+        },
+        "imagen": "https://github.com/cuter97/Cervezas/blob/main/Imagenes/cerveza-index.jpg",
+        "info": "Esta cerveza negra clásica es uno de los pilares de Manush. De cuerpo pleno, sabor torrado a café y con notas tostadas. Se caracteriza por su espuma duradera y de alta cremosidad. Los clientes siempre la repiten por ser intensa y refrescante a la vez. Lúpulos: Bullion y Willamette."
+      }
+    ]
+  }
+
