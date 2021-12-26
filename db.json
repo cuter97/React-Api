@@ -26,7 +26,7 @@
         "tipo": "Lager",
         "dates":{
         },
-        "imagen": "gs://react-proyect-43651.appspot.com/beer02.jpg",
+        "imagen": "https://firebasestorage.googleapis.com/v0/b/react-proyect-43651.appspot.com/o/beer02.jpg?alt=media&token=74c007f6-3a7a-430d-ae44-c6de98149fa0",
         "info": "Esta cerveza color ámbar tiene un aroma a caramelo suave gracias a la combinacion de sus cuatro maltas. Tiene un sabor maltoso y a caramelo leve tostado que deja un sutil dulzor. Maltas usadas: Pilsen, Carared, Melanoidina y Carapils. Lúpulos usados: Cascade y Nugget."
       },
       {
