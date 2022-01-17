@@ -15,6 +15,7 @@
         "precio": 120,
         "tipo": "Ale",
         "alc": "6.3%",
+        "stock": 6,
         "imagen": "https://firebasestorage.googleapis.com/v0/b/react-proyect-43651.appspot.com/o/thais-do-rio-EUO7L470LXk-unsplash.jpg?alt=media&token=d7c36703-ff56-4918-9b46-7fec6143cb8a",
         "info": "Ale americana cobriza, floral, con toques herbáceos y cítricos. Equilibrio entre el cuerpo y el lúpulo. Toda IPA Manush debe pasar la prueba del globo y el elefante: volar establemente con un buen contrapeso. Lúpulos: Nugget y Cascade."
       },
@@ -24,6 +25,7 @@
         "precio": 100,
         "tipo": "Lager",
         "alc": "4.1%",
+        "stock": 8,
         "imagen": "https://firebasestorage.googleapis.com/v0/b/react-proyect-43651.appspot.com/o/beer02.jpg?alt=media&token=74c007f6-3a7a-430d-ae44-c6de98149fa0",
         "info": "Esta cerveza color ámbar tiene un aroma a caramelo suave gracias a la combinacion de sus cuatro maltas. Tiene un sabor maltoso y a caramelo leve tostado que deja un sutil dulzor. Maltas usadas: Pilsen, Carared, Melanoidina y Carapils. Lúpulos usados: Cascade y Nugget."
       },
@@ -33,6 +35,7 @@
         "precio": 140,
         "tipo": "Lager",
         "alc": "4.7%",
+        "stock": 9,
         "imagen": "https://firebasestorage.googleapis.com/v0/b/react-proyect-43651.appspot.com/o/beer03.jpg?alt=media&token=78dd1576-37ea-406c-ab1b-b9cb2e18d02c",
         "info": " Esta cerveza tiene un color dorado profundo, de espuma densa y duradera. Leve opalescencia por ser una cerveza sin filtrar (para preservar aromas). El aroma a lúpulo se percibe con notas cítricas y a durazno. Con una maltosidad que equilibra el amargor, haciéndole muy fácil de tomar. De final seco y balanceado. Amargo bajo y cuerpo moderado. Maltas usadas: Malta Pilsen, Vienna y CarAmber. Lúpulos usados: Huel Melon, Mapuche y Summit."
       },
@@ -42,6 +45,7 @@
         "precio": 90,
         "tipo": "Ale",
         "alc": "4.5%",
+        "stock": 12,
         "imagen": "https://firebasestorage.googleapis.com/v0/b/react-proyect-43651.appspot.com/o/beer04.jpg?alt=media&token=cde50291-e432-4228-a22e-9cc0fcd052aa",
         "info": "aca va informacion del producto"
       },
@@ -51,6 +55,7 @@
         "precio": 110,
         "tipo": "Ale",
         "alc": "6.1%",
+        "stock": 7,
         "imagen": "https://firebasestorage.googleapis.com/v0/b/react-proyect-43651.appspot.com/o/beer05.jpg?alt=media&token=e4f34e05-a3e6-4dac-9a4d-d4cf2fd02336",
         "info": "Cerveza Red Ipa de color ambar rojizo, espuma color crema, muy persistente. De aromas y sabores complejos, producto del uso de lúpulos norteamericanos como Mosaic y Denali, sumados al Cascade patagónico."
       },
@@ -69,6 +74,7 @@
         "precio": 115,
         "tipo": "Stout",
         "alc": "3.3%",
+        "stock": 10,
         "imagen": "https://firebasestorage.googleapis.com/v0/b/react-proyect-43651.appspot.com/o/beer08.jpg?alt=media&token=93f4d8ff-b7d1-4281-9bb1-601d926a2f26",
         "info": "El Champán de las cervezas. Su origen se identifica con productos característicos de Bélgica, allí se elaboran muchos estilos relacionados a las frutas finas. Este estilo es de un color rosado brillante aportado por la frambuesa, producto que se adquiere de productores de la comarca de El Bolsón. Una característica destacada del estilo es el alto porcentaje de alcohol, 7,5%. Esto se debe a que la fruta aporta buenas cantidades de azúcares fermentables, que en el proceso de fermentación interactúan con la levadura y generan ese volúmen. También la fruta fina aporta un leve sabor ácido. El porcentaje de lúpulo es muy bajo."
       },
@@ -78,6 +84,7 @@
         "precio": 300,
         "tipo": "Ale",
         "alc": "4.4%",
+        "stock": 8,
         "imagen": "https://firebasestorage.googleapis.com/v0/b/react-proyect-43651.appspot.com/o/beer07.jpg?alt=media&token=226e4fe3-aaa7-46f7-bdf9-9745e43d040a",
         "info": "Esta cerveza roja es una de las más elegidas. Ale Irlandesa fácil de beber, con sabores sutiles a grano y bizcocho. Posee un toque tostado en el final que la hace muy refrescante. Lúpulos: Nugget y Bullion."
       },
@@ -87,6 +94,7 @@
         "precio": 190,
         "tipo": "Stout",
         "alc": "5.3%",
+        "stock": 15,
         "imagen": "https://firebasestorage.googleapis.com/v0/b/react-proyect-43651.appspot.com/o/beer09.jpg?alt=media&token=0325d765-e288-467f-b890-d49bee91cb89",
         "info": "Esta cerveza negra clásica es uno de los pilares de Manush. De cuerpo pleno, sabor torrado a café y con notas tostadas. Se caracteriza por su espuma duradera y de alta cremosidad. Los clientes siempre la repiten por ser intensa y refrescante a la vez. Lúpulos: Bullion y Willamette."
       }
