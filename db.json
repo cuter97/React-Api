@@ -65,6 +65,7 @@
         "precio": 20,
         "tipo": "Ale",
         "alc": "7.1%",
+        "stock": 3,
         "imagen": "https://firebasestorage.googleapis.com/v0/b/react-proyect-43651.appspot.com/o/beer06.jpg?alt=media&token=0f694e01-d50e-409f-ab9d-19f8cbeb2aca",
         "info": "La Nahuelito Black IPA es una cerveza de color negro, tonalidad aportada por las maltas oscuras, cuya característica principal es un gran aroma lupulado y un amargor intenso en boca, combinado con tonos tostados y chocolates. Usaron lúpulos nacionales e importados, que combinan características cítricas y herbales en la búsqueda del balance deseado"
       },
